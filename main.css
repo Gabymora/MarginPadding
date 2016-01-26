@@ -1,0 +1,18 @@
+/* Agrega aqui tu CSS */
+div { 
+	width: 200px;
+	height: 260px;
+	border: #990EFA 3px solid;
+	background:#E6BDFB ;
+	padding: 3px 5px; 
+	text-align:left;
+	}
+.boxin {
+	border: white 1px dashed;
+	text-align:left;
+	padding: 2px 1px; 
+	margin: 2px 3px 2px 3px;
+	background: #F8F0FC;
+}
+
+ .
