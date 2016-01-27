@@ -1,56 +1,50 @@
 /* Agrega aqui tu CSS */
 div { 
-	width: 200px;
-	height: 260px;
-	border: #046F0C 1px solid;
+	width: 250px;
+	height: 270px;
+	border: #046F0C 5px solid;
 	background:#90FBA9 ;
-	padding: 3px 5px; 
-	text-align:left;
+	text-align:center;
 	border-radius: 25px 25px 25px 25px;
+	font-size: 17px;
+	font-family: Tahoma;
 	}
 
 .boxintx {
 	border: white 1px dashed;
 	text-align:left;
-	padding: 2px 1px; 
-	margin: 2px 3px 2px 3px;
 	background: #E2FBE8;
 	border-radius: 8px 8px 8px 8px;
+	font-size: 17px
  	}
 /*--------------PROPIEDADES DE LA SEGUNDA CAJA--------------------------------*/
 #cajados {
-	width: 200px;
-	height: 260px;
-	border: red 1px solid;
+	width: 250px;
+	height: 250px;
+	border: red 5px solid;
 	background:#FAA465 ;
-	padding: 3px 5px; 
-	text-align:left;
 	}
 
 .boxindos {
 	border: white 1px dashed;
 	text-align:left;
-	padding: 2px 1px; 
-	margin: 2px 3px 2px 3px;
 	background: #FBD9A9;
 	border-radius: 8px 8px 8px 8px;
+	font-size: 17px
 	}
 /*---------------------PROPIEDADES DE LA TERCER CAJA ---------------------------*/
 #cajatres {
-	width: 200px;
-	height: 260px;
-	border: #AB078A 1px solid;
+	width: 250px;
+	height: 290px;
+	border: #AB078A 5px solid;
 	background:#FD8FDF ;
-	padding: 3px 5px; 
-	text-align:left;
 	}
 
 .boxintres {
 	border: white 1px dashed;
 	text-align:left;
-	padding: 2px 1px; 
-	margin: 2px 3px 2px 3px;
 	background: #F9C2E1;
 	border-radius: 8px 8px 8px 8px;
+	font-size: 17px
 	}
 
