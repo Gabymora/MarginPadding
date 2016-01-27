@@ -7,12 +7,51 @@ div {
 	padding: 3px 5px; 
 	text-align:left;
 	}
-.boxin {
+
+.boxintx {
 	border: white 1px dashed;
 	text-align:left;
 	padding: 2px 1px; 
 	margin: 2px 3px 2px 3px;
 	background: #F8F0FC;
-}
+	border-radius: 8px 8px 8px 8px;
+ 	}
+/*--------------PROPIEDADES DE LA SEGUNDA CAJA--------------------------------*/
+#cajados {
+	width: 200px;
+	height: 260px;
+	border: red 3px solid;
+	background:#FAABAB ;
+	padding: 3px 5px; 
+	text-align:left;
+	margin: 10px 0px 10px 0px;
+	}
 
- .
+.boxindos {
+	border: white 1px dashed;
+	text-align:left;
+	padding: 2px 1px; 
+	margin: 2px 3px 2px 3px;
+	background: #F9E4E7;
+	border-radius: 8px 8px 8px 8px;
+	}
+/*---------------------PROPIEDADES DE LA TERCER CAJA ---------------------------*/
+#cajatres {
+	width: 200px;
+	height: 260px;
+	border: blue 3px solid;
+	background:#5551FD ;
+	padding: 3px 5px; 
+	text-align:left;
+	margin: 10px 0px 10px 0px;
+	}
+
+.boxintres {
+	border: white 1px dashed;
+	text-align:left;
+	padding: 2px 1px; 
+	margin: 2px 3px 2px 3px;
+	background: #CCE7FB;
+	border-radius: 8px 8px 8px 8px;
+	}
+
